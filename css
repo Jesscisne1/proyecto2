@@ -1,0 +1,16 @@
+body{
+    background-color: #dedede;
+}
+
+#elementodelista{
+    color: blue;
+    font-size: 1.8rem;
+}
+
+.element{
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+}
